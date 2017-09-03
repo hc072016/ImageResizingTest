@@ -207,6 +207,7 @@
 				TargetAttributes = {
 					DED56E331F4878E700BB39AF = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = 9U2ZLMHGVK;
 						ProvisioningStyle = Automatic;
 					};
 					DED56E4C1F4878E700BB39AF = {
@@ -424,7 +425,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 9U2ZLMHGVK;
 				INFOPLIST_FILE = ImageResizingTest/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.hc.ImageResizingTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -435,7 +438,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 9U2ZLMHGVK;
 				INFOPLIST_FILE = ImageResizingTest/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.hc.ImageResizingTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
