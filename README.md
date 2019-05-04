@@ -9,4 +9,4 @@ ImageIO framework compression is better in terms of memory usage over UIKit.
 Surpirsingly there is no clear win amongst the Photos framework and the ImageIO framework.
 Many people run different tests on one image, but I found that different images have direct impact on the performance and memory usage.
 Image file size and image dimension size have a positive correlation to memory usage, but not always the case.
-Two 4k images of roughly same file size. One can make Photos framework a high memory spike, but not ImageIO framework. The other image could opposite resutl.
+Two 4k images of roughly same file size. One can make Photos framework a high memory spike, but not ImageIO framework. The other image could have opposite result.
